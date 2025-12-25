@@ -1,0 +1,11 @@
+MASTER SERVICES AGREEMENT
+
+This Master Services Agreement ("Agreement") is entered into on 2024-01-15 between Alpha Widgets Inc. ("Customer")
+and PrimeLogic Consulting ("Provider"). The term ends on 2025-01-14 unless terminated earlier.
+
+Payment terms: Net 30 days from invoice date. Governing law: Ontario, Canada.
+
+Obligations:
+1. Provider will deliver AI architecture and implementation services.
+2. Customer will provide access to required systems and data.
+3. Confidentiality obligations apply for 3 years after termination.

@@ -1,0 +1,12 @@
+INVOICE
+Vendor: Acme Supplies Ltd.
+Invoice Number: INV-10023
+Invoice Date: 2024-02-02
+Currency: USD
+
+Line Items:
+- Consulting services: 5,000.00
+- Cloud usage: 450.00
+
+Tax: 250.00
+Total: 5,700.00

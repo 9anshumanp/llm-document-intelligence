@@ -1,0 +1,32 @@
+[
+  {
+    "schema": "contract",
+    "doc_path": "data/samples/sample_contract.txt",
+    "must_have_any": {
+      "counterparty": [
+        "alpha widgets"
+      ],
+      "payment_terms": [
+        "net 30"
+      ],
+      "governing_law": [
+        "ontario"
+      ]
+    }
+  },
+  {
+    "schema": "invoice",
+    "doc_path": "data/samples/sample_invoice.txt",
+    "must_have_any": {
+      "vendor": [
+        "acme"
+      ],
+      "invoice_number": [
+        "inv-10023"
+      ],
+      "currency": [
+        "usd"
+      ]
+    }
+  }
+]
